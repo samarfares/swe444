@@ -10,7 +10,7 @@
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="B"
         tools:layout_editor_absoluteX="28dp"
         tools:layout_editor_absoluteY="293dp" />
 
@@ -25,7 +25,8 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/backgroundImage"
+        android:src="@drawable/enjoy"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="0dp" />
+
 </android.support.constraint.ConstraintLayout>
